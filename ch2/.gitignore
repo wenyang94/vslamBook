@@ -1,0 +1,56 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.vscode/
+/model
+ORB-SLAM2-modified/CMakeLists.txt.user
+ORB-SLAM2-modified/Examples/Monocular/mono_euroc
+ORB-SLAM2-modified/Examples/Monocular/mono_kitti
+ORB-SLAM2-modified/Examples/Monocular/mono_tum
+ORB-SLAM2-modified/Examples/RGB-D/rgbd_tum
+ORB-SLAM2-modified/Examples/ROS/ORB_SLAM2/CMakeLists.txt.user
+ORB-SLAM2-modified/Examples/ROS/ORB_SLAM2/Mono
+ORB-SLAM2-modified/Examples/ROS/ORB_SLAM2/MonoAR
+ORB-SLAM2-modified/Examples/ROS/ORB_SLAM2/RGBD
+ORB-SLAM2-modified/Examples/ROS/ORB_SLAM2/Stereo
+ORB-SLAM2-modified/Examples/ROS/ORB_SLAM2/build/
+ORB-SLAM2-modified/Examples/Stereo/stereo_euroc
+ORB-SLAM2-modified/Examples/Stereo/stereo_kitti
+ORB-SLAM2-modified/KeyFrameTrajectory.txt
+ORB-SLAM2-modified/Thirdparty/DBoW2/build/
+ORB-SLAM2-modified/Thirdparty/DBoW2/lib/
+ORB-SLAM2-modified/Thirdparty/g2o/build/
+ORB-SLAM2-modified/Thirdparty/g2o/config.h
+ORB-SLAM2-modified/Thirdparty/g2o/lib/
+Vocabulary
+build/
+ORB-SLAM2-modified/lib
